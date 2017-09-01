@@ -1,7 +1,4 @@
 package com.example.android.widget.sample.app;
-/*
- * Created by ronadix@gmail.com on 9/1/17.
- */
 
 import android.content.Context;
 import android.content.Intent;
