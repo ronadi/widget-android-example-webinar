@@ -2,4 +2,10 @@
     <string name="app_name">Sample Widget</string>
     <string name="appwidget_text">EXAMPLE</string>
     <string name="add_widget">Add widget</string>
+
+    <string-array name="the_list">
+        <item>Item One</item>
+        <item>Item Two</item>
+        <item>Item Three</item>
+    </string-array>
 </resources>
