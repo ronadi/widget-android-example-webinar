@@ -7,5 +7,6 @@
                     android:previewImage="@drawable/example_appwidget_preview"
                     android:resizeMode="horizontal|vertical"
                     android:updatePeriodMillis="0"
+                    android:configure="com.example.android.widget.sample.app.WidgetConfigActivity"
                     android:widgetCategory="home_screen">
 </appwidget-provider>
